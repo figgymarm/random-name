@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/figgymarm/random-name/issues"
   },
-  "homepage": "https://github.com/figgymarm/random-name#readme"
+  "homepage": "https://github.com/figgymarm/random-name#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
